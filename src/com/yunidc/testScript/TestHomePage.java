@@ -10,6 +10,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
+import com.yunidc.pageObjects.HomePage;
 import com.yunidc.util.Log;
 
 public class TestHomePage{
@@ -39,7 +40,7 @@ public class TestHomePage{
 	@BeforeMethod
 	public void beforeMethod(){
 		homePage = new HomePage();
-		homePage.load();
+		homePage.get();
 	}
 	
 	@AfterMethod
