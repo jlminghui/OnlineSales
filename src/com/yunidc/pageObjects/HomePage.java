@@ -4,6 +4,11 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import com.yunidc.util.ObjectMap;
 
+/**
+ * www.yun-idc.com首页对象，仅包含注册、登录、控制台元素对象
+ * @author minghui
+ *
+ */
 public class HomePage {
 	private WebElement element = null;
 	private WebDriver driver;
