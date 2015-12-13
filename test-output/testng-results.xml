@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45544" started-at="2015-12-13T07:43:34Z" finished-at="2015-12-13T07:44:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45544" started-at="2015-12-13T07:43:34Z" finished-at="2015-12-13T07:44:20Z">
+      <class name="com.yunidc.testScript.TestHomePage">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.yunidc.testScript.TestHomePage@e580929]" name="beforeClass" is-config="true" duration-ms="516" started-at="2015-12-13T15:43:34Z" finished-at="2015-12-13T15:43:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.yunidc.testScript.TestHomePage@e580929]" name="beforeMethod" is-config="true" duration-ms="2790" started-at="2015-12-13T15:43:35Z" finished-at="2015-12-13T15:43:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testConsole()[pri:0, instance:com.yunidc.testScript.TestHomePage@e580929]" name="testConsole" duration-ms="19244" started-at="2015-12-13T15:43:38Z" finished-at="2015-12-13T15:43:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConsole -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.yunidc.testScript.TestHomePage@e580929]" name="afterMethod" is-config="true" duration-ms="227" started-at="2015-12-13T15:43:57Z" finished-at="2015-12-13T15:43:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.yunidc.testScript.TestHomePage@e580929]" name="beforeMethod" is-config="true" duration-ms="1950" started-at="2015-12-13T15:43:57Z" finished-at="2015-12-13T15:43:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testOpenLoginPage()[pri:0, instance:com.yunidc.testScript.TestHomePage@e580929]" name="testOpenLoginPage" duration-ms="9274" started-at="2015-12-13T15:43:59Z" finished-at="2015-12-13T15:44:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOpenLoginPage -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.yunidc.testScript.TestHomePage@e580929]" name="afterMethod" is-config="true" duration-ms="156" started-at="2015-12-13T15:44:08Z" finished-at="2015-12-13T15:44:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.yunidc.testScript.TestHomePage@e580929]" name="beforeMethod" is-config="true" duration-ms="2254" started-at="2015-12-13T15:44:09Z" finished-at="2015-12-13T15:44:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testRegister()[pri:0, instance:com.yunidc.testScript.TestHomePage@e580929]" name="testRegister" duration-ms="8815" started-at="2015-12-13T15:44:11Z" finished-at="2015-12-13T15:44:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegister -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.yunidc.testScript.TestHomePage@e580929]" name="afterMethod" is-config="true" duration-ms="299" started-at="2015-12-13T15:44:20Z" finished-at="2015-12-13T15:44:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.yunidc.testScript.TestHomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
